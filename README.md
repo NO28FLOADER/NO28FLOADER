@@ -26,4 +26,4 @@ YOU ARE MY ![Visitor Count](https://profile-counter.glitch.me/NO28FlOADER/count.
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=NO28FLOADER&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+[![NO28FLOADER'S GITHUB STATS](https://github-readme-stats.vercel.app/api?username=NO28FLOADER&show_icons=true&bg_color=DEG,RED,BLUE)](https://github.com/NO28FLOADER/github-readme-stats)
