@@ -6,13 +6,6 @@
 
 ---
 
-### Hi 👋
-
-I’m **Yufeng Tang**, a student developer interested in **systems, game logic, and engineering-driven software**.
-I like clean abstractions, simple designs, and code that explains itself.
-
----
-
 ### Focus
 
 * ⚙️ Backend & systems thinking
@@ -61,7 +54,4 @@ I like clean abstractions, simple designs, and code that explains itself.
   <img src="https://github-readme-stats.vercel.app/api?username=NO28FLOADER&show_icons=true&hide_title=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NO28FLOADER&layout=compact" />
-</p>
 
