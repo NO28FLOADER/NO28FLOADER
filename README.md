@@ -1,7 +1,7 @@
 <h2 align="center">NO28FLOADER</h2>
 
 <p align="center">
-  YOU ARE MY ![Visitor Count](https://profile-counter.glitch.me/NO28FLOADER/count.svg) VISITOR
+  ![Profile Views](https://komarev.com/ghpvc/?username=NO28FLOADER&style=flat&color=grey)
 </p>
 
 ---
