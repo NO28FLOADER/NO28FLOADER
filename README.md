@@ -1,6 +1,5 @@
 <h2 align="center">NO28FLOADER</h2>
 
----
 
 ### Focus
 
