@@ -59,11 +59,3 @@ YOU ARE MY ![Visitor Count](https://profile-counter.glitch.me/NO28FLOADER/count.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NO28FLOADER&layout=compact" />
 </p>
-
----
-
-### ✨ Notes
-
-* Clean code > clever code
-* Logic first, tools second
-* Always learning, always building
