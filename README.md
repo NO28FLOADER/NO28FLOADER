@@ -1,24 +1,29 @@
-## 👋 Hi, I’m Yufeng Tang (@NO28FLOADER)
+<h2 align="center">NO28FLOADER</h2>
 
 <p align="center">
-
-YOU ARE MY ![Visitor Count](https://profile-counter.glitch.me/NO28FLOADER/count.svg) VISITOR
-
+  YOU ARE MY ![Visitor Count](https://profile-counter.glitch.me/NO28FLOADER/count.svg) VISITOR
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### Hi 👋
 
-* 🎓 Student focused on **Computer Science & Engineering**
-* 🛠️ Interested in **systems, game logic, and backend development**
-* 🔍 Enjoy turning complex problems into clean, logical solutions
+I’m **Yufeng Tang**, a student developer interested in **systems, game logic, and engineering-driven software**.
+I like clean abstractions, simple designs, and code that explains itself.
 
 ---
 
-### 🧠 Languages
+### Focus
 
-<p align="center">
+* ⚙️ Backend & systems thinking
+* 🎮 Game mechanics & simulations
+* 🧠 Strong fundamentals over trendy tools
+
+---
+
+### Languages
+
+<p>
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![Java](https://img.shields.io/badge/Java-000?logo=openjdk\&logoColor=007396)
@@ -33,9 +38,9 @@ YOU ARE MY ![Visitor Count](https://profile-counter.glitch.me/NO28FLOADER/count.
 
 ---
 
-### ⚙️ Technologies & Tools
+### Tools & Technologies
 
-<p align="center">
+<p>
 
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?logo=git)
@@ -50,12 +55,13 @@ YOU ARE MY ![Visitor Count](https://profile-counter.glitch.me/NO28FLOADER/count.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NO28FLOADER&show_icons=true&hide_title=true&theme=default" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NO28FLOADER&show_icons=true&hide_title=true" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NO28FLOADER&layout=compact" />
 </p>
+
